@@ -1,0 +1,8 @@
+ bhai aaj maine git ka use kia aur repo mein changes kare..
+thing i performed:
+	1. git add . use kia
+	2. git commit -m "msg" bhi use kia
+	3. delete bhi kia create bhi kia 
+	4. merge bhi kia
+	5. pull n push bhi kia
+	
